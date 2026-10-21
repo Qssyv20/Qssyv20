@@ -1,25 +1,21 @@
-# Hi there, I'm Qssyv20! 👋
+# Hi, I'm Qssyv20
 
-### 🌱 Learning, building, and exploring.
+*Learning, building, and exploring.*
 
-I'm a Big Data Engineering student, currently learning programming and exploring the world of open source.
+I'm a Big Data Engineering student learning programming and exploring open-source development.
 
-I enjoy building small projects, experimenting with AI tools, and turning interesting ideas into something useful.
+I enjoy building small projects, experimenting with AI tools, and turning interesting ideas into useful things.
 
-### 💻 What I'm learning
+## Currently learning
 
-- **Languages:** Python, Java, SQL
+- **Programming:** Python, Java, SQL
 - **Exploring:** Git, GitHub, data engineering, and open-source collaboration
 - **Interested in:** AI-assisted development and practical tools
 
-### 🚀 My journey
+## My journey
 
-- 🌱 Learning by building real projects
-- 🤝 Taking my first steps in open-source contributions
-- ✨ Hoping to create things that are genuinely useful to others
+I'm learning by building real projects and taking my first steps in open source. I hope to create things that are genuinely useful to others.
 
-### 💬 A little note
+---
 
-> Still learning. Still building. One step at a time.
-
-Thanks for stopping by! 💙
+*Still learning. Still building. One step at a time.*
