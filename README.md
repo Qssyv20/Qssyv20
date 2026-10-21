@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Qssyv20! 👋
 
-<!--
-**Qssyv20/Qssyv20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Learning, building, and exploring.
 
-Here are some ideas to get you started:
+I'm a Big Data Engineering student, currently learning programming and exploring the world of open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building small projects, experimenting with AI tools, and turning interesting ideas into something useful.
+
+### 💻 What I'm learning
+
+- **Languages:** Python, Java, SQL
+- **Exploring:** Git, GitHub, data engineering, and open-source collaboration
+- **Interested in:** AI-assisted development and practical tools
+
+### 🚀 My journey
+
+- 🌱 Learning by building real projects
+- 🤝 Taking my first steps in open-source contributions
+- ✨ Hoping to create things that are genuinely useful to others
+
+### 💬 A little note
+
+> Still learning. Still building. One step at a time.
+
+Thanks for stopping by! 💙
